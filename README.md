@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=QDYIMoA9EOg&feature=em-uploademail
 
 Additional information regarding this code may be found in the following post:
 
-T.B.D.
+https://www.johncanessa.com/2020/04/29/working-with-files-python/
 
 Enjoy;
 
